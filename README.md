@@ -1,3 +1,3 @@
 # @tgbetacore
 
-test
+![](assets/@tgbetacore.jpg)
