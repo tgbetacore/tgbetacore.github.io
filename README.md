@@ -1,3 +1,3 @@
 # Benvenuti su Telegram Beta Core
 
-![](assets/@tgbetacore.jpg)
+![](assets/channels.jpg)
